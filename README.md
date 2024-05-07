@@ -29,8 +29,8 @@ Pass test data for validating manually.
 Plot the predictions for visualization.
 
 ## PROGRAM
-### DEVELOPED BY: POOJASREE B
-### REGISTER NUMBER: 212223040148
+### DEVELOPED BY: SREEKUMAR S
+### REGISTER NUMBER: 212223240157
 ```
 import pandas as pd
 import numpy as np
@@ -127,11 +127,11 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![Screenshot 2024-05-06 112651](https://github.com/POOJASREE-B/convolutional-denoising-autoencoder/assets/144362256/f64480e7-f187-45c7-b896-2d1a6b1b24bf)
+![Screenshot 2024-05-07 193425](https://github.com/guru14789/convolutional-denoising-autoencoder/assets/151705853/fdf7acf7-56df-4623-9a91-b603adc0c0d5)
 
 ### Original vs Noisy Vs Reconstructed Image
+![Screenshot 2024-05-07 193438](https://github.com/guru14789/convolutional-denoising-autoencoder/assets/151705853/156612c3-d583-4b23-a6af-75ee6f2aa05e)
 
-![Screenshot 2024-05-06 112707](https://github.com/POOJASREE-B/convolutional-denoising-autoencoder/assets/144362256/74434015-0def-4825-8b01-c9f0af95900b)
 
 
 
